@@ -76,9 +76,6 @@ Let's connect and build something amazing together!
       <td>
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lokeshranjan8&show=prs_merged_percentage&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
       </td>
-      <td rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshranjan8&layout=donut&theme=github_dark&hide_border=true&langs_count=10&hide=html,css&exclude_repo=Kortex-AdobeSubmission"/>
-      </td>
     </tr>
     <tr>
       <td>
