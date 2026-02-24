@@ -11,9 +11,6 @@ Let's connect and build something amazing together!
   <a href="https://www.linkedin.com/in/lokesh-ranjan-ba2ba0297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:ranjan.lokesh123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://discord.gg/571334587855273994" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
