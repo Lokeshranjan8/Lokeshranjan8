@@ -2,7 +2,7 @@
   Hello Everyone
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-Hi! myself Lokesh Ranjan, Junior at IIT (BHU) VARANASI :
+Hi! myself Lokesh Ranjan:
 Let's connect and build something amazing together!
 <br>
 <h1></h1>
