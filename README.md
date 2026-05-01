@@ -8,12 +8,9 @@ Let's connect and build something amazing together!
 <h1></h1>
 <div id="header" align="center">
   <div id="badges">
-  <a href="https://www.linkedin.com/in/lokesh-ranjan-ba2ba0297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://discord.gg/571334587855273994" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
+  <a href="mailto:lokesh8ranjan@gmail.com">
+      <img src="https://img.shields.io/badge/-Lokeshranjan-red?style=social&logo=gmail" alt="Email"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Lokeshranjan8&style=flat-square&color=blue" alt="" align="center"/>
 </div>
